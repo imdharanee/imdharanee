@@ -36,20 +36,9 @@
 
 ## 🌌 About Me
 
-```rust
-fn main() {
-    let dharaneedharan = Developer {
-        name:      "Dharaneedharan G K",
-        role:      "Software Engineer",
-        tagline:   "Exploring the depths of Web and low-level systems.",
-        focus:     ["Scalable Solutions", "High-Performance Computing"],
-        interests: ["Low-level programming", "System Architecture", "Web Engineering"],
-        languages: ["C", "C++", "Rust", "Go", "TypeScript", "C#"],
-    };
+👋 Hi, I'm **Dharaneedharan G K** — a **Software Engineer** passionate about exploring the depths of Web and low-level systems.
 
-    println!("{} is currently building something cool 🚀", dharaneedharan.name);
-}
-```
+I build **scalable, high-performance solutions** with a focus on systems programming, web engineering, and emerging technologies. Currently building something cool 🚀
 
 ---
 
@@ -76,7 +65,6 @@ fn main() {
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
@@ -95,6 +83,7 @@ fn main() {
 <p align="left">
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
 ### ⚒️ Tools & Platforms
@@ -145,4 +134,3 @@ fn main() {
 *"The best code is the one that never needed to be written — but when it does, make it fast."* 🦀
 
 </div>
-
