@@ -49,7 +49,6 @@ I build **scalable, high-performance solutions** with a focus on systems program
 - 🦀 Obsessed with **low-level programming** — squeezing every ounce of performance from the machine
 - ⚙️ Deep-diving into **system architecture** through **C, C++,** and **Rust**
 - 🌐 Building **scalable web systems** that are fast, reliable, and elegant
-- 🔗 Exploring **decentralized technologies** — Ethereum, Solidity, and IPFS
 - 🤖 Experimenting with **AI Agents** and **Generative AI**
 
 ---
@@ -121,7 +120,6 @@ I build **scalable, high-performance solutions** with a focus on systems program
 |------|---------|
 | ⚙️ **Systems Programming** | Memory management, OS internals, compilers, and runtime design using C, C++, and Rust |
 | 🌐 **Web Engineering** | Scalable backend APIs, real-time systems, and performant frontends |
-| 🔗 **Blockchain & Web3** | Smart contracts with Solidity, decentralized storage via IPFS, Ethereum ecosystem |
 | 🤖 **AI & Agents** | Generative AI applications, autonomous AI agent architectures |
 | ⚡ **HPC** | High-Performance Computing — squeezing maximum efficiency from hardware |
 
