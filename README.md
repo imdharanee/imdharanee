@@ -59,8 +59,6 @@ I build **scalable, high-performance solutions** with a focus on systems program
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
   <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/Apex-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
 ### 🧩 Frameworks & Libraries
@@ -68,9 +66,7 @@ I build **scalable, high-performance solutions** with a focus on systems program
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/ASP.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
   <img src="https://img.shields.io/badge/Gin-00ADD8?style=for-the-badge&logo=go&logoColor=white" />
-  <img src="https://img.shields.io/badge/LWC-00A1E0?style=for-the-badge&logo=salesforce&logoColor=white" />
 </p>
 
 ### 🗄️ Databases
@@ -111,7 +107,6 @@ I build **scalable, high-performance solutions** with a focus on systems program
 | ⚙️ **Systems Programming** | Memory management, OS internals, compilers, and runtime design using C, C++, and Rust |
 | 🌐 **Web Engineering** | Scalable backend APIs, real-time systems, and performant frontends |
 | 🤖 **AI & Agents** | Generative AI applications, autonomous AI agent architectures |
-| ⚡ **HPC** | High-Performance Computing — squeezing maximum efficiency from hardware |
 
 ---
 
@@ -119,6 +114,6 @@ I build **scalable, high-performance solutions** with a focus on systems program
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" />
 
-*"The best code is the one that never needed to be written — but when it does, make it fast."* 🦀
+*"The best code is the one that never needed to be rewritten — but when it does, make it fast."* 
 
 </div>
