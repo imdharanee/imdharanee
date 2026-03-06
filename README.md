@@ -42,7 +42,7 @@ I build **scalable, high-performance solutions** with a focus on systems program
 
 > *"Exploring the depths of Web and low-level systems. Building scalable and efficient solutions. Passionate about High-Performance Computing."*
 
-- 🦀 Obsessed with **low-level programming** — squeezing every ounce of performance from the machine
+-  Obsessed with **low-level programming** — squeezing every ounce of performance from the machine
 - ⚙️ Deep-diving into **system architecture** through **C, C++,** and **Rust**
 - 🌐 Building **scalable web systems** that are fast, reliable, and elegant
 - 🤖 Experimenting with **AI Agents** and **Generative AI**
@@ -51,7 +51,7 @@ I build **scalable, high-performance solutions** with a focus on systems program
 
 ## 🛠️ Tech Arsenal
 
-### 🔤 Languages
+### Languages
 
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
@@ -61,7 +61,7 @@ I build **scalable, high-performance solutions** with a focus on systems program
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
 </p>
 
-### 🧩 Frameworks & Libraries
+###  Frameworks & Libraries
 
 <p align="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
@@ -77,7 +77,7 @@ I build **scalable, high-performance solutions** with a focus on systems program
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
 </p>
 
-### ⚒️ Tools & Platforms
+### Tools & Platforms
 
 <p align="left">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
